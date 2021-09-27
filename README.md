@@ -1,4 +1,4 @@
-# Hough-Algorithm
+# Hough-Algorithm for UWA
 
 Fitting resonators' data by Hough transformation.
 Developed for Prof. Michael Tobar's group under Dr. Cindy Zhao's supervision and guidance.
