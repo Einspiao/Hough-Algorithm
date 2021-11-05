@@ -16,3 +16,5 @@ How to use it :
 Please be adviced :
 
 This algorithm search for resonant modes at a reletively high resolution and as a result it takes more time. For a typical full spectrum scan (10000 data points), it takes approximately 20 minutes. Since a full spectrum scan experiment takes several hours, I assume 20-minute running time is acceptable. Large step length (Data points between two steps, in the second parameters setting window) can speed up it at the cost of worse resolution.
+
+All details about this program can be found in "Research Summary".
